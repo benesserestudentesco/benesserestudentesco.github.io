@@ -13,6 +13,13 @@ Cosa deve essere fatto nel Sito:
 - Inserimento Form Iscrizione all'Associazione
 - Etc. (da aggiungere quello che volete)
 
+Creazione di una parte Front-End e Back-End:
+- Front-End
+- Back-End:
+  - Login
+  - Registrazione
+  - Pagina di Visualizzare quando sei loggato
+
 Aperto a nuova scrittura!
 
 IMPORTANTE! 
